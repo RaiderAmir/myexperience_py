@@ -1,0 +1,2 @@
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **Репозиторий для домашки**
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) **И не только:)**

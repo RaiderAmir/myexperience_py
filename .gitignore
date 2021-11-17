@@ -1,1 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+lesson_2/task_import_py.py
+lesson_2/task_my_name.py
+venv/
